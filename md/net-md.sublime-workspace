@@ -1,0 +1,260 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD"
+	],
+	"file_history":
+	[
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-66-revelation.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-65-jude.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-64-john-3.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-63-john-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-62-john-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-61-peter-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-01-genesis.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-02-exodus.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-03-leviticus.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-04-numbers.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-05-deuteronomy.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-06-joshua.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-07-judges.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-08-ruth.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-09-samuel-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-10-samuel-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-11-kings-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-12-kings-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-13-chronicles-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-14-chronicles-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-15-ezra.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-16-nehemiah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-17-esther.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-18-job.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-19-psalms.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-20-proverbs.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-21-ecclesiastes.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-22-song-of-songs.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-23-isaiah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-24-jeremiah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-25-lamentations.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-26-ezekiel.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-27-daniel.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-28-hosea.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-29-joel.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-30-amos.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-31-obadiah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-32-jonah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-33-micah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-34-nahum.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-35-habakkuk.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-36-zephaniah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-37-haggai.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-38-zechariah.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-39-malachi.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-40-matthew.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-41-mark.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-42-luke.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-43-john.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-44-acts.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-45-romans.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-46-corinthians-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-47-corinthians-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-48-galatians.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-49-ephesians.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-50-philippians.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-51-colossians.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-52-thessalonians-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-53-thessalonians-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-54-timothy-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-55-timothy-2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-56-titus.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-57-philemon.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-58-hebrews.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-59-james.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-60-peter-1.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/index.md",
+		"/Users/isral/Desktop/index.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-38-zechariah 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-54-timothy-1 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-52-thessalonians-1 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-51-colossians 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-50-philippians 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-49-ephesians 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-48-galatians 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-47-corinthians-2 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-46-corinthians-1 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-45-romans 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-44-acts 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-43-john 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-42-luke 2.md",
+		"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD/book-41-mark 2.md",
+		"/Users/isral/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/isral/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 142.0,
+		"where_history":
+		[
+			"/Users/isral/Library/Mobile Documents/27N4MQEA55~pro~writer/Documents/NET Bible MD"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{{TOC}}\\n\\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "net-md.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
